@@ -1,6 +1,6 @@
 import {test} from "tap";
 
-import sortBy from "./index";
+import sortBy from "./";
 
 
 test("sorts", ({same, done}) => {
