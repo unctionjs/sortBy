@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (mixed => mixed) => Array<mixed> => Array<mixed>
+> MapperFunctionType<A, B> => Array<C> => Array<C>
 
 Sorts an array by a given computer function.
 

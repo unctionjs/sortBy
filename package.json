@@ -61,10 +61,11 @@
   "dependencies": {
   },
   "files": [
-    "index.js",
+    "index.ts",
     "main.js",
     "main.js.map",
     "browser.js",
     "browser.js.map"
-  ]
+  ],
+  "types": "types.d.ts"
 }
