@@ -1,4 +1,4 @@
-import sortBy from "./index.ts";
+import sortBy from "./index";
 
 
 test("works", () => {
