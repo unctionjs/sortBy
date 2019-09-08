@@ -1,6 +1,6 @@
 {
   "name": "@unction/sortby",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sort a Array by a computer",
   "keywords": [
     "unction",
@@ -53,8 +53,7 @@
     "jest-extended": "0.11.2",
     "typescript": "3.5.1"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "files": [
     "index.ts",
     "main.js",
